@@ -1,0 +1,48 @@
+[
+
+    {
+        "id":1,
+        "title":"web development",
+        "image":"https://www.elegantthemes.com/blog/wp-content/uploads/2018/12/top11.png",
+        "description":"If you are looking to learn web development online, there are more than enough resources out there to teach"
+
+    },
+    {
+        "id":2,
+        "title":"Front-End development",
+        "image":"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20201111215809/How-to-Become-a-Front-End-Developer-in-2020.png",
+        "description":"Even the most ambitious self-starters run into the problem of learn web development online. enough resources out there to teach"
+
+    },
+    {
+        "id":3,
+        "title":"Programming",
+        "image":"https://www.onlc.com/blog/wp-content/uploads/2017/07/ONLC-2017-4.png",
+        "description":"Learn web development online, there are more than enough resources out there "
+
+    },
+    {
+        "id":4,
+        "title":"designing",
+        "image":"https://www.purelybranded.com/wp-content/uploads/2012/11/web-design-or-web-development-whats-the-difference.gif",
+        "description":"The web development industry continues to grow exponentially  shortage of resources. The most important thing to do is start."
+
+
+    },
+    {
+        "id":5,
+        "title":"React JS development",
+        "image":"https://ares.decipherzone.com/blog-manager/uploads/banner_webp_da06d145-93f9-4df9-8c7e-1e2c332c3a4a.webp",
+        "description":"In addition ready portfolio. Their teaching  the use of videos, interactive quizzes and code challenges"
+
+
+    },
+    {
+        "id":6,
+        "title":"Figma Designing tools",
+        "image":"https://lokalise.com/blog/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2021/07/Figma.png.webp",
+        "description":"They also offer what they call Codeacademy Pro Intensives to take your learning torojects and get professional developer feedback."
+
+
+    }
+]
